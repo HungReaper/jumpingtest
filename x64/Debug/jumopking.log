@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\project\jumopking\jumopking\common_function.h(50,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+E:\project\jumopking\jumopking\main.cpp(131,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(131,16): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(131,16): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(131,16): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(138,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(138,16): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(146,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(146,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(146,16): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+E:\project\jumopking\jumopking\main.cpp(194,5): warning C4551: function call missing argument list
+  jumopking.vcxproj -> E:\project\jumopking\x64\Debug\jumopking.exe
