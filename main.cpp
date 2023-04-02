@@ -122,6 +122,7 @@ int selectMenu(SDL_Renderer* renderer) {
     TTF_CloseFont(font);
 }
 
+
 int main(int argc, char* argv[])
 {
     // Khởi tạo SDL2 và cửa sổ
